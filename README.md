@@ -1,7 +1,14 @@
-- 👋 Hi, I’m @n35k4
+<pre>
+- 👋 Hi, I’m @n35k4 
+       _________  _    _  _    
+ _ __ |___ / ___|| | _| || |   
+| '_ \  |_ \___ \| |/ / || |_  
+| | | |___) |__) |   <|__   _| 
+|_| |_|____/____/|_|\_\  |_|   
+                             
+</pre>
 
-[![n35k4's GitHub stats](https://github-readme-stats.vercel.app/api?username=n35k4)](https://github.com/n35k4/github-readme-stats)
-
+![iOSdev](https://img.shields.io/badge/iOS-developer-green) ![iOSdev](https://img.shields.io/badge/MacOS-developer-orange) 
 <!---
 n35k4/n35k4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
