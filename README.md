@@ -1,7 +1,10 @@
 ![#](https://www.codewars.com/users/n35k4/badges/large)
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=n35k4&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=n35k4&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=gruvbox" />
+
+
 
 
 
